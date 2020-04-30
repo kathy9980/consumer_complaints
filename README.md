@@ -8,7 +8,7 @@ I uploaded my github repo at this [page](https://insight-cc-submission.com/test-
 
 ```Errors exist: Your run.sh file has hidden characters that must be removed first. This is often due to files being created on a Windows machine and having hidden carriage returns instead of newlines.```
 
-So, I tried some ways (dos2unix, sed) following the instruction [here](https://www.networkworld.com/article/3438857/how-to-remove-carriage-returns-from-text-files-on-linux.html) to fix this error, but no luck. Then, I went to see if Notepad++ and Sublime can help me. I can change the line ending from Windows '\r\n' to Unix '\n' in both softwares, but the modified `run.sh` still don't pass your online test system.:-(
+So, I tried some ways (dos2unix, sed) following the instruction [here](https://www.networkworld.com/article/3438857/how-to-remove-carriage-returns-from-text-files-on-linux.html) to fix this error, but no luck. Then, I went to see if Notepad++ and Sublime can help me. Even I could successfully change the line ending from Windows '\r\n' to Unix '\n' in both softwares, the modified `run.sh` still don't pass your online test system.:-(
 
 
 ### 1. Question Analysis
