@@ -37,7 +37,7 @@ Then, two loops are developed to find the total number of complaints received fo
 There are some other questions that need some tricks to fix. For example, the *year* and *product* should be sorted in chronological and alphabetical order, respectively. All string should be treated case insensitive, so I convert them to lowercase at the begining. Also, product with comma need to have double quotation mark added, and I choose to fix it at the process of writing `report.csv`.
 
 
-Please see [demo.ipynb]() for more details.
+Please see [demo.ipynb](https://github.com/kathy9980/consumer_complaints/blob/master/src/demo.ipynb) for more details.
 
 
 by Kexin Song
