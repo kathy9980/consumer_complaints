@@ -2,7 +2,7 @@
 This is a repo for Insight Data Engineering - Coding Challenge - Consmer Complaints
 
 ### 0. Before we dig into this challenge...
-My laptop is Microsoft Laptop 2 (Window 10), but I am using Python 3.7 in the Ubuntu Subsystem to create my program and then utilize [pyinstaller](https://www.pyinstaller.org/) to convert the python file into an executable file. 
+My laptop is Microsoft Laptop 2 (Window 10), but I am using Python 3.7 in the Ubuntu Subsystem (version: Ubuntu 18.04.02 LTS) to create my program and then utilize [pyinstaller](https://www.pyinstaller.org/) to convert the python file into an executable file. 
 
 I uploaded my github repo at this [page](https://insight-cc-submission.com/test-my-repo-link). There is an error relevant to system generating the file.
 
@@ -38,7 +38,7 @@ There are some other questions that need some tricks to fix. For example, the *y
 
 
 ---
-Thank you for your reading!
+Thank you for reading!
 Please see [demo.ipynb](https://github.com/kathy9980/consumer_complaints/blob/master/src/demo.ipynb) for more details.
 
 
