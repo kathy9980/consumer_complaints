@@ -2,7 +2,7 @@
 This is a repo for Insight Data Engineering - Coding Challenge - Consmer Complaints
 
 ### 0. Before we dig into this challenge...
-My laptop is Microsoft Laptop2, but I am using Python 3.7 in the Ubuntu Subsystem to create my program and then utilize pyinstaller to convert it into an executable file. 
+My laptop is Microsoft Laptop 2 (Window 10), but I am using Python 3.7 in the Ubuntu Subsystem to create my program and then utilize pyinstaller to convert it into an executable file. 
 
 I uploaded my github repo at this [page](https://insight-cc-submission.com/test-my-repo-link). There is an error relevant to system generating the file.
 
